@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.logo {
+   font-family: 'Lobster', cursive;
+}
+
+.articlePic {
+    width: 600px;
+    height: 745px;
+    /*수정요망(아마 width: 100% 인듯)*/
+}
+
+.commentPostbtnDiv {
+    border: 1px solid black;
+}
+
+.commentInput {
+   border:0px;
+   outline:none;
+}
+
+.postingBtn {
+    background-color: none;
+}
